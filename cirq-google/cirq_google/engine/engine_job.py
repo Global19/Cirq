@@ -13,7 +13,6 @@
 # limitations under the License.
 """A helper for jobs that have been created on the Quantum Engine."""
 import datetime
-import time
 
 from typing import Dict, Iterator, List, Optional, overload, Sequence, Tuple, TYPE_CHECKING
 

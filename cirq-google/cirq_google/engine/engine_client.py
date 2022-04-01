@@ -16,7 +16,6 @@ import asyncio
 import datetime
 import sys
 import threading
-import time
 from typing import (
     AsyncIterable,
     Awaitable,
